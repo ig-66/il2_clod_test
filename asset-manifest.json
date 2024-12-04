@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "./static/css/main.4adc0e46.css",
-    "main.js": "./static/js/main.d44bce95.js",
+    "main.js": "./static/js/main.e7b0a43f.js",
     "static/js/453.ebb6b648.chunk.js": "./static/js/453.ebb6b648.chunk.js",
     "static/media/map_tobruk.jpg": "./static/media/map_tobruk.b8cc70c28731b6f8d04f.jpg",
     "static/media/map_channel.jpg": "./static/media/map_channel.5980e398df6651868d4d.jpg",
     "static/media/legicon.ico": "./static/media/legicon.f44a11fbbc2f1fd266f0.ico",
     "index.html": "./index.html",
     "main.4adc0e46.css.map": "./static/css/main.4adc0e46.css.map",
-    "main.d44bce95.js.map": "./static/js/main.d44bce95.js.map",
+    "main.e7b0a43f.js.map": "./static/js/main.e7b0a43f.js.map",
     "453.ebb6b648.chunk.js.map": "./static/js/453.ebb6b648.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4adc0e46.css",
-    "static/js/main.d44bce95.js"
+    "static/js/main.e7b0a43f.js"
   ]
 }
